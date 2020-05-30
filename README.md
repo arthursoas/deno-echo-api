@@ -11,7 +11,7 @@ deno run --allow-env --allow-net app.ts
 ```
 
 ## Usage
-Send a HTTP request to `127.0.0.1\{expected-response-status}`.
+Send a HTTP request to `https:\\127.0.0.1\{expected-response-status}` using any HTTP method.
 
 Example:
 ```http
